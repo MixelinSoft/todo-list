@@ -1,0 +1,17 @@
+.todo {
+  display: flex;
+  align-items: center;
+  margin: 5px auto;
+  width: 80%;
+  border: 2px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px;
+  font-size: 28px;
+  
+
+}
+.todoIcon {
+  margin: auto 10px;
+  color: aqua;
+}
